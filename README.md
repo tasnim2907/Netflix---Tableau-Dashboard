@@ -1,7 +1,7 @@
 # 📊 Netflix---Tableau-Dashboard
 
 ## 📌 Project Overview
-Here’s an interactive Tableau dashboard that digs into Netflix’s catalog—both Movies and TV Shows. You’ll find insights on how content is spread out by year, country, genre, and rating. It’s a handy way to spot trends and patterns in Netflix’s global library.
+Dive into this interactive Tableau dashboard and see what’s really going on in Netflix’s lineup—movies, TV shows, all of it. You can check out how content is split by year, country, genre, and rating. If you’re curious about trends in Netflix’s global library, this dashboard lays it all out.
 
 Check out the live dashboard here:  
 🔗 [Netflix Tableau Dashboard](https://public.tableau.com/app/profile/tasnim.sorwar/viz/Book1_17563552138350/Netflix)
@@ -9,22 +9,22 @@ Check out the live dashboard here:
 ---
 
 ## 🎯 Key Features
-There are five main visualizations in the dashboard:
+The dashboard breaks things down into five main visuals:
 
 1. **Total Movies & TV Shows by Years**  
-   - See how Netflix’s library has grown over the years.  
+   - See Netflix’s library grow year by year.
 
 2. **Total Movies & TV Shows by Country**  
-   - Explore a world map that shows where Netflix content comes from. 
+   - Explore a world map and find out where Netflix gets its content.
 
 3. **Top 10 Genres**  
-   - Find out which genres are most popular on Netflix. 
+   - Check out which genres rule Netflix’s catalog.
 
 4. **Movies & TV Shows Distribution**  
-   - Compare how many Movies vs. TV Shows are in the catalog. 
+   - Compare the number of movies to TV shows.
 
 5. **Ratings**  
-   - Check how content is spread across different maturity ratings (like TV-MA, PG-13, R). 
+   - Get a look at how content spreads across different maturity ratings—TV-MA, PG-13, R, and more.
 
 ---
 
@@ -39,20 +39,20 @@ There are five main visualizations in the dashboard:
 1. Clone this repository:
    ```bash
    git clone https://github.com/tasnim2907/Netflix---Tableau-Dashboard
-2. Open the Tableau workbook or connect Tableau to the provided Excel dataset.
-3. Play around with the dashboard—filter by year, country, or category to dig into the details.
+2. Open up the Tableau workbook, or just connect Tableau to the Excel dataset.
+3. Jump in and start exploring—filter by year, country, or category to get into the details.
 
 ## 📊 Insights You Can Derive
 
 - Watch how Netflix’s library keeps expanding year after year.
-- Spot which countries add the most to Netflix’s library.
-- See the top genres and how much space they take up.
-- Break down content ratings—what’s family-friendly, what’s for mature audiences.
-- Get the ratio of Movies to TV Shows.
+- See which countries are adding the most content.
+- Find the most popular genres and how big they really are.
+- Break down the ratings—what’s for families, what’s for adults.
+- Get the mix of movies vs. TV shows.
 
 ## 🛠️ Tools & Technologies
 
-- **Tableau** Public for data visualization.
-- **Excel** for data storage and preparation.
-- **GitHub** for project sharing and version control.
+- **Tableau Public** for all the visualizations.
+- **Excel** to store and prep the data.
+- **GitHub** for sharing and keeping track of changes.
 
